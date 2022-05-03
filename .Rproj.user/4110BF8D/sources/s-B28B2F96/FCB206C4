@@ -3,7 +3,7 @@
     "path": "C:/GitHub/Videogames-and-Harassment/Sexism Harassment.Rmd",
     "project_path": "Sexism Harassment.Rmd",
     "type": "r_markdown",
-    "hash": "31141186",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1651550518047.0,
@@ -12,16 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "29,66",
-        "scrollLine": "16",
+        "cursorPosition": "23,284",
+        "scrollLine": "26",
         "last_setup_crc32": "B28B2F968364601e"
     },
     "folds": "",
-    "lastKnownWriteTime": 1651568733,
+    "lastKnownWriteTime": 1651569116,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1651568733744,
+    "last_content_update": 1651569116207,
     "read_only": false,
     "read_only_alternatives": []
 }

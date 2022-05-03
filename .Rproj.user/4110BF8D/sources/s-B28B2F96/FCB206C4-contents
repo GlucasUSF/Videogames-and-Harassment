@@ -1,5 +1,5 @@
 ---
-title: "VideoGame Harasment Study"
+title: <center>VideoGame Harasment Study</center>
 author: "Garrett Lucas"
 date: "5/2/2022"
 output: html_document
@@ -13,7 +13,7 @@ library("dplyr")
 library("knitr")
 ```
 
-### Introduction
+### <u>Introduction</u>
 
 ```{r}
 load(file = "Results_Sexual_Harassment.RData")
